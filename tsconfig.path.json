@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./",
+      "paths": {
+        "@db/*": ["prisma/*"],
+        "@api/*": ["src/api/*"],
+        "@lib/*": ["src/lib/*"],
+        "@types/*": ["src/types/*"],
+        "@services/*": ["src/services/*"]
+      }
+    }
+  }
+  
